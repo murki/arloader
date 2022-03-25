@@ -11,6 +11,8 @@ In order to create your NFTs, you need your assets uploaded to Arweave, your met
 3. Upload your metadata files
 4. Get links to your uploaded metadata files to use in your NFTs
 
+For a beginner's step-by-step guide of how to create an NFT in Solana (from creating a wallet, to uploading assets to arweave using arloader, to listing it in a marketplace) check out [this medium article](https://medium.com/@murki/the-ultimate-dev-guide-to-manually-minting-a-brand-new-nft-in-solana-fb5af9771688).
+
 To start with, include both your assets and your metadata files in the same directory and make sure that the stems of your asset files match the stems of your metadata files.
 ```
 ├── 0.json
